@@ -3,7 +3,7 @@ draft = false
 date = 2018-09-16T19:48:32+02:00
 title = "Hello, World!"
 slug = "hello-world" 
-tags = ["hello-world"]
+tags = ["hello-world", "me", "blog"]
 categories = ["personal"]
 +++
 
