@@ -12,11 +12,29 @@
     
     
     <item>
+      <title>Blog</title>
+      <link>//renannprado.github.io/tags/blog/</link>
+      <pubDate>Sun, 16 Sep 2018 19:48:32 +0200</pubDate>
+      
+      <guid>//renannprado.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hello World</title>
       <link>//renannprado.github.io/tags/hello-world/</link>
       <pubDate>Sun, 16 Sep 2018 19:48:32 +0200</pubDate>
       
       <guid>//renannprado.github.io/tags/hello-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Me</title>
+      <link>//renannprado.github.io/tags/me/</link>
+      <pubDate>Sun, 16 Sep 2018 19:48:32 +0200</pubDate>
+      
+      <guid>//renannprado.github.io/tags/me/</guid>
       <description></description>
     </item>
     
