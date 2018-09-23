@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Renann&#39;s Blog</title>
+    <link>//renannprado.github.io/</link>
+    <description>Recent content on Renann&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Sep 2018 19:48:32 +0200</lastBuildDate>
+    
+	<atom:link href="//renannprado.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>//renannprado.github.io/posts/hello-world/</link>
+      <pubDate>Sun, 16 Sep 2018 19:48:32 +0200</pubDate>
+      
+      <guid>//renannprado.github.io/posts/hello-world/</guid>
+      <description>Hello, World! Welcome, reader! This is my first blog post eva!
+If you are spending your precious time to read this first blog post, I believe you deserve to know the story behind this blog and why I want to have one (don&amp;rsquo;t worry, this is not a long post).
+First things first&amp;hellip; As any other programmer, I have my basket of standby projects, and one of them is this blog (maybe not in standby anymore, let&amp;rsquo;s see).</description>
+    </item>
+    
+  </channel>
+</rss>

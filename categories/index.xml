@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Renann&#39;s Blog</title>
+    <link>//renannprado.github.io/categories/</link>
+    <description>Recent content in Categories on Renann&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="//renannprado.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personal</title>
+      <link>//renannprado.github.io/categories/personal/</link>
+      <pubDate>Sun, 16 Sep 2018 19:48:32 +0200</pubDate>
+      
+      <guid>//renannprado.github.io/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
