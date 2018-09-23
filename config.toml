@@ -22,7 +22,7 @@ googleAnalytics = "UA-15036200-3"
     keywords = "blog,developer,personal" # Site keywords.
     avatarurl = "https://avatars3.githubusercontent.com/u/2359543?s=460&v=4" # Contain the path of the optionnal avatar in the static folder.
 
-    footercontent = "Enter a text here." # Add footer content
+    # footercontent = "Enter a text here." # Add footer content
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = false
