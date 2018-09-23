@@ -13,7 +13,9 @@ pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
 pygmentscodefences = true # Enable code fence background highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
 
+# integrations
 googleAnalytics = "UA-15036200-3"
+disqusShortname = "renanns-blog"
 
 [params] # theme parameters
     author = "Renann Prado" # Author's name.
@@ -50,6 +52,6 @@ googleAnalytics = "UA-15036200-3"
     weight = 1
     url  = "/posts/"
 [[menu.main]]
-    name = "WhoAmI"
+    name = "About"
     weight = 2
     url = "/posts/whoami/"
