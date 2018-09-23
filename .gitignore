@@ -1,2 +1,4 @@
 *.less
 components/
+public/
+resources/
