@@ -26,7 +26,7 @@ And this is how it used to look...
 
 ![Old Website Rendered](hello-world/old-website-rendered.png)
 
-I know, I know. This page is a ligitimate piece of ~~utter bullshit~~ art, and this kind of art can only be understood by those who have a pure heart and soul!
+I know, I know. This page is a legitimate piece of ~~utter bullshit~~ art, and this kind of art can only be understood by those who have a pure heart and soul!
 As you can see, I was not using any fancy blog generator like [:heart: hugo](https://gohugo.io). 
 Even tough tools like [jekyll](https://jekyllrb.com/) exist for long time, I believe that in 2014 Hugo didn't exist yet, I'm not sure.
 
