@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Renann&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Sep 2018 19:48:32 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Sep 2018 17:44:12 +5400</lastBuildDate>
     
 	<atom:link href="//renannprado.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Blog</title>
       <link>//renannprado.github.io/tags/blog/</link>
-      <pubDate>Sun, 16 Sep 2018 19:48:32 +0200</pubDate>
+      <pubDate>Mon, 24 Sep 2018 17:44:12 +5400</pubDate>
       
       <guid>//renannprado.github.io/tags/blog/</guid>
       <description></description>
@@ -35,6 +35,42 @@
       <pubDate>Sun, 16 Sep 2018 19:48:32 +0200</pubDate>
       
       <guid>//renannprado.github.io/tags/me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>//renannprado.github.io/tags/personal/</link>
+      <pubDate>Mon, 24 Sep 2018 17:44:12 +5400</pubDate>
+      
+      <guid>//renannprado.github.io/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>//renannprado.github.io/tags/programming/</link>
+      <pubDate>Mon, 24 Sep 2018 17:44:12 +5400</pubDate>
+      
+      <guid>//renannprado.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renann Prado</title>
+      <link>//renannprado.github.io/tags/renann-prado/</link>
+      <pubDate>Mon, 24 Sep 2018 17:44:12 +5400</pubDate>
+      
+      <guid>//renannprado.github.io/tags/renann-prado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whoami</title>
+      <link>//renannprado.github.io/tags/whoami/</link>
+      <pubDate>Mon, 24 Sep 2018 17:44:12 +5400</pubDate>
+      
+      <guid>//renannprado.github.io/tags/whoami/</guid>
       <description></description>
     </item>
     
