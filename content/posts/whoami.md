@@ -63,7 +63,7 @@ If you want to know more, please go to my [linkedin](https://www.linkedin.com/in
 
 `ls` list content of a directory :smile:.
 
-`sed` replaces text in
+`sed` replaces text in an output (here I used it to format the output)
 
 (in no particular order and not everything)
 
