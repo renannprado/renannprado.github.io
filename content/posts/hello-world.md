@@ -3,7 +3,7 @@ draft = false
 date = 2018-09-16T19:48:32+02:00
 title = "Hello, World!"
 slug = "hello-world" 
-tags = ["hello-world", "me", "blog"]
+tags = ["hello-world", "me", "blog", "personal"]
 categories = ["personal"]
 +++
 
@@ -44,4 +44,4 @@ You can find some information [here](/posts/whoami). :smile:
 Hopefully by the time you're reading this post [you can already find something useful in this blog](/posts), but if not, I'm planning to post really soon! Stay tuned!
 
 
-That's all, folks. :smile:
+That's all, folks! :smile:

@@ -1,10 +1,10 @@
 +++ 
-draft = true
+draft = false
 date = 2018-09-24T17:44:12+54:00
 title = "Who Am I?"
 slug = "whoami" 
-tags = []
-categories = []
+tags = ["personal", "renann prado", "blog", "programming", "whoami"]
+categories = ["personal", "me", "blog"]
 +++
 
 # Tell me about yourself...
@@ -76,6 +76,8 @@ Docker
 Kubernetes
 Microservices
 Spring
+Jenkins
+gRPC
 ```
 
 ## While working I listen to...
@@ -102,6 +104,7 @@ Franz Ferdinand
 Rage Against the Machine
 Nena
 David Guetta
+etc
 ```
 
 Also, I often listen to random noise at https://modarchive.org/ :smile:.
@@ -119,8 +122,18 @@ Also, I often listen to random noise at https://modarchive.org/ :smile:.
  4 pts/1    00:00:00 watch-movies-series
  5 pts/1    00:00:00 listen-to-music
  6 pts/1    00:00:00 travel
+ 7 pts/1    00:00:00 sleep
 ```
 
-# What can you expect from this blog
+# What you can expect from this blog
 
-...
+- Tips & tricks for linux, java, spring, golang, docker, kubernetes, jenkins, etc
+- Discussions around CI/CD, microservices, architecture design, security, etc
+    - My objective here is also often not give you an answer, but raise the discission around certain subjects
+- Post-mortem about past projects, frustrations, etc
+- Experience reports
+- News about software development, programming languages, frameworks, etc
+
+That's pretty much everything I could remember, but of course there can be articles about something else as well :smile:. 
+
+Thanks for reading and keep happy coding :smile:.
