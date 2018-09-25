@@ -45,3 +45,5 @@ Hopefully by the time you're reading this post [you can already find something u
 
 
 That's all, folks! :smile:
+
+> Ah, I almost forgot, if you find any issues in the blog (typo, misleading information, etc), feel free to file an issue [here](https://github.com/renannprado/renannprado.github.io/issues/new).
