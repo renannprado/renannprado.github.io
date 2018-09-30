@@ -129,7 +129,7 @@ Also, I often listen to random noise at https://modarchive.org/ :smile:.
 
 - Tips & tricks for linux, java, spring, golang, docker, kubernetes, jenkins, etc
 - Discussions around CI/CD, microservices, architecture design, security, etc
-    - My objective here is also often not give you an answer, but raise the discission around certain subjects
+    - My objective here is also often not give you an answer, but raise the discussion around certain subjects
 - Post-mortem about past projects, frustrations, etc
 - Experience reports
 - News about software development, programming languages, frameworks, etc
