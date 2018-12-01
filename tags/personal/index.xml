@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal on Renann&#39;s Blog</title>
-    <link>//renannprado.github.io/tags/personal/</link>
+    <link>/tags/personal/</link>
     <description>Recent content in Personal on Renann&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Sep 2018 17:44:12 +5400</lastBuildDate>
     
-	<atom:link href="//renannprado.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Who Am I?</title>
-      <link>//renannprado.github.io/posts/whoami/</link>
+      <link>/posts/whoami/</link>
       <pubDate>Mon, 24 Sep 2018 17:44:12 +5400</pubDate>
       
-      <guid>//renannprado.github.io/posts/whoami/</guid>
-      <description>Tell me about yourself&amp;hellip; Those who have been asked this same question over and over during interviews, please raise their hands ✋. To answer this and other questions, let me walk you through who am I in a fun, geeky way 😄, but I really expect anybody to understand as well. I&amp;rsquo;ll also tell some non-tech personal mostly irrelevant stuff 😜.
+      <guid>/posts/whoami/</guid>
+      <description>Tell me about yourself&amp;hellip; Those who have been asked this same question over and over during interviews, please raise their hands ✋. To answer this and other questions, let me walk you through who am I in a fun, geeky way :smile:, but I really expect anybody to understand as well. I&amp;rsquo;ll also tell some non-tech personal mostly irrelevant stuff 😜.
 So, let&amp;rsquo;s start&amp;hellip;
 Who am I? whoami is a command in *nix systems that shows what user is currently logged into the computer.</description>
     </item>
     
     <item>
       <title>Hello, World!</title>
-      <link>//renannprado.github.io/posts/hello-world/</link>
+      <link>/posts/hello-world/</link>
       <pubDate>Sun, 16 Sep 2018 19:48:32 +0200</pubDate>
       
-      <guid>//renannprado.github.io/posts/hello-world/</guid>
-      <description>Hello, World! Welcome, reader! This is my first blog post eva!
+      <guid>/posts/hello-world/</guid>
+      <description>Hello, World! Welcome, reader! This is my first blog post eva! :bowtie:
 If you are spending your precious time to read this first blog post, I believe you deserve to know the story behind this blog and why I want to have one (don&amp;rsquo;t worry, this is not a long post).
 First things first&amp;hellip; As any other programmer, I have my basket of standby projects, and one of them is this blog (maybe not in standby anymore, let&amp;rsquo;s see).</description>
     </item>

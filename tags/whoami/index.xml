@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Whoami on Renann&#39;s Blog</title>
-    <link>//renannprado.github.io/tags/whoami/</link>
+    <link>/tags/whoami/</link>
     <description>Recent content in Whoami on Renann&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Sep 2018 17:44:12 +5400</lastBuildDate>
     
-	<atom:link href="//renannprado.github.io/tags/whoami/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/whoami/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Who Am I?</title>
-      <link>//renannprado.github.io/posts/whoami/</link>
+      <link>/posts/whoami/</link>
       <pubDate>Mon, 24 Sep 2018 17:44:12 +5400</pubDate>
       
-      <guid>//renannprado.github.io/posts/whoami/</guid>
-      <description>Tell me about yourself&amp;hellip; Those who have been asked this same question over and over during interviews, please raise their hands ✋. To answer this and other questions, let me walk you through who am I in a fun, geeky way 😄, but I really expect anybody to understand as well. I&amp;rsquo;ll also tell some non-tech personal mostly irrelevant stuff 😜.
+      <guid>/posts/whoami/</guid>
+      <description>Tell me about yourself&amp;hellip; Those who have been asked this same question over and over during interviews, please raise their hands ✋. To answer this and other questions, let me walk you through who am I in a fun, geeky way :smile:, but I really expect anybody to understand as well. I&amp;rsquo;ll also tell some non-tech personal mostly irrelevant stuff 😜.
 So, let&amp;rsquo;s start&amp;hellip;
 Who am I? whoami is a command in *nix systems that shows what user is currently logged into the computer.</description>
     </item>

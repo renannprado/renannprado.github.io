@@ -3,95 +3,95 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//renannprado.github.io/posts/whoami/</loc>
+    <loc>/posts/whoami/</loc>
     <lastmod>2018-09-24T17:44:12+54:00</lastmod>
   </url>
   
   <url>
-    <loc>//renannprado.github.io/posts/hello-world/</loc>
+    <loc>/posts/hello-world/</loc>
     <lastmod>2018-09-16T19:48:32+02:00</lastmod>
   </url>
   
   <url>
-    <loc>//renannprado.github.io/tags/blog/</loc>
+    <loc>/tags/blog/</loc>
     <lastmod>2018-09-24T17:44:12+54:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//renannprado.github.io/categories/blog/</loc>
+    <loc>/categories/blog/</loc>
     <lastmod>2018-09-24T17:44:12+54:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//renannprado.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2018-09-24T17:44:12+54:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//renannprado.github.io/tags/hello-world/</loc>
-    <lastmod>2018-09-16T19:48:32+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//renannprado.github.io/tags/me/</loc>
+    <loc>/tags/hello-world/</loc>
     <lastmod>2018-09-16T19:48:32+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//renannprado.github.io/categories/me/</loc>
+    <loc>/tags/me/</loc>
+    <lastmod>2018-09-16T19:48:32+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/me/</loc>
     <lastmod>2018-09-24T17:44:12+54:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//renannprado.github.io/tags/personal/</loc>
+    <loc>/tags/personal/</loc>
     <lastmod>2018-09-24T17:44:12+54:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//renannprado.github.io/categories/personal/</loc>
+    <loc>/categories/personal/</loc>
     <lastmod>2018-09-24T17:44:12+54:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//renannprado.github.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2018-09-24T17:44:12+54:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//renannprado.github.io/tags/programming/</loc>
+    <loc>/tags/programming/</loc>
     <lastmod>2018-09-24T17:44:12+54:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//renannprado.github.io/tags/renann-prado/</loc>
+    <loc>/tags/renann-prado/</loc>
     <lastmod>2018-09-24T17:44:12+54:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//renannprado.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2018-09-24T17:44:12+54:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//renannprado.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2018-09-24T17:44:12+54:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//renannprado.github.io/tags/whoami/</loc>
+    <loc>/tags/whoami/</loc>
     <lastmod>2018-09-24T17:44:12+54:00</lastmod>
     <priority>0</priority>
   </url>
