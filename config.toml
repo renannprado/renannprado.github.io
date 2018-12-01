@@ -1,4 +1,3 @@
-baseURL = "//renannprado.github.io/"
 theme = "coder"
 languageCode = "en-us"
 defaultcontentlanguage = "en"
