@@ -1,25 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Renann Prado on Renann&#39;s Blog</title>
+    <title>renann prado on Renann&#39;s Blog</title>
     <link>/tags/renann-prado/</link>
-    <description>Recent content in Renann Prado on Renann&#39;s Blog</description>
+    <description>Recent content in renann prado on Renann&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Sep 2018 17:44:12 +5400</lastBuildDate>
-    
-	<atom:link href="/tags/renann-prado/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 24 Sep 2018 17:44:12 +5400</lastBuildDate><atom:link href="/tags/renann-prado/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who Am I?</title>
       <link>/posts/whoami/</link>
       <pubDate>Mon, 24 Sep 2018 17:44:12 +5400</pubDate>
       
       <guid>/posts/whoami/</guid>
-      <description>Tell me about yourself&amp;hellip; Those who have been asked this same question over and over during interviews, please raise their hands ✋. To answer this and other questions, let me walk you through who am I in a fun, geeky way :smile:, but I really expect anybody to understand as well. I&amp;rsquo;ll also tell some non-tech personal mostly irrelevant stuff 😜.
+      <description>Tell me about yourself&amp;hellip; Link to heading Those who have been asked this same question over and over during interviews, please raise their hands ✋. To answer this and other questions, let me walk you through who am I in a fun, geeky way 😄, but I really expect anybody to understand as well. I&amp;rsquo;ll also tell some non-tech personal mostly irrelevant stuff 😜.
 So, let&amp;rsquo;s start&amp;hellip;
-Who am I? whoami is a command in *nix systems that shows what user is currently logged into the computer.</description>
+Who am I?</description>
     </item>
     
   </channel>
